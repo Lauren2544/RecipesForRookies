@@ -58,11 +58,7 @@ ul {
   }
   
   li a:hover {
-    
-    
-    border-color: #f95d9b;
-    border-style:none none solid none;
-
+    text-decoration: underline;
   }
   #boxes{
     font-family: 'Andika';

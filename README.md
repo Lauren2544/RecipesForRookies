@@ -18,6 +18,7 @@ This website was built at my very first hackathon ever at MLH RookieHacks built 
 - Hackathons are fun.
 - I need sleep to function.
 - Nav-bar means the navigation bar at the top of the screen.
+- Organizing files into folders would have been cool and easier to manage.
 
 ## Known Bugs
 
